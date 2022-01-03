@@ -112,9 +112,6 @@ class LinkedList:
         
         raise Exception("target data not found")
 
-    def reverse_list():
-        filer = None
-
     def test_linked_list(self):
         self.add_first("a") 
         self.add_last("b")
